@@ -1,0 +1,13 @@
+faster-whisper
+transformers
+torch
+numpy
+SpeechRecognition
+PyAudio
+safetensors
+fastapi
+uvicorn
+websockets
+pypdf
+sentence-transformers
+python-multipart
